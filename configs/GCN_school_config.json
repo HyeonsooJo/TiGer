@@ -1,0 +1,8 @@
+{
+    "num_hidden": 64,
+    "lr": 1e-3,
+    "wd": 5e-5,
+    "dropout": 0.3,
+    "num_epochs": 1000,
+    "minimum_epoch": 50
+}

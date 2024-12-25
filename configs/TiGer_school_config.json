@@ -1,0 +1,12 @@
+{
+    "aux_loss_weight": 0.5,
+    "num_hidden": 64,
+    "lr": 0.001,
+    "wd": 5e-4,
+    "dropout": 0.3,
+    "num_epochs": 100,
+    "batch_size": 1024,
+    "filter_rate": 0.0,
+    "prox_weight": 10,
+    "prox_type": "adamic_adar"
+}
