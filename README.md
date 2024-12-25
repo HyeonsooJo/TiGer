@@ -13,5 +13,7 @@ Source code of PAKDD'25 submission
 - networkx==3.3
 
 ## Run TiGer
+
 example: school dataset / random seed: 0 (0 ~ 9)
+
 python TiGer.py --graph_name school --seed 0
